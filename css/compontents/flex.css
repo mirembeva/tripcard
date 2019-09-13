@@ -1,0 +1,20 @@
+.tripcard{
+    box-shadow:2px 2px 3px grey;
+    margin:20px;
+    width: 400px;
+}
+
+.tripimage{
+    display: block;
+    width: 100%;
+}
+
+.tripdetails{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+
+
